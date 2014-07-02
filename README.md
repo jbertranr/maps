@@ -3,4 +3,4 @@ maps
 
 TestingMaps
 
-Sónles proves inicials de l'apliació per accedir a diversos mapes
+Són les proves inicials de l'apliació per accedir a diversos mapes
